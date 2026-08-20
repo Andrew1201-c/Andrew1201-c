@@ -1,7 +1,7 @@
 ## Hi there.
 I just do random stuff lol
 
---
+-----------
 
 Stuff about me:
 - I like C and Python
